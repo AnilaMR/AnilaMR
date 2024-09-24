@@ -1,4 +1,4 @@
-👋 Hello, ** I'm Anila!**
+👋 **Hello, I'm Anila!**
 🌍 Based in the beautiful state of Kerala, India
 💻 Passionate about data analysis, machine learning, and AI technologies.
 📊 I enjoy transforming raw data into meaningful insights that drive decision-making and innovation.
